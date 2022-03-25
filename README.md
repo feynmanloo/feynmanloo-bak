@@ -13,6 +13,12 @@
 海内存知己，天涯若比邻。<br />
 无为在歧路，儿女共沾巾。
 
+
+### 爆发的想法，一刻都停不下来！
+
+![](https://raw.githubusercontent.com/feynmanloo/feynmanloo/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **feynmanloo/feynmanloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
